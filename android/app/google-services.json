@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318595525356",
+    "project_id": "workout-logger-vk69",
+    "storage_bucket": "workout-logger-vk69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318595525356:android:fe0031bb8b48108c1313c9",
+        "android_client_info": {
+          "package_name": "com.example.workout_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeRSgLC2wXUw_8ZTALa_a1_jsQk9MImdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
