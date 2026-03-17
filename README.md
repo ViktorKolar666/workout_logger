@@ -1,16 +1,15 @@
-# workout_logger
+# Workout logger
 
-A new Flutter project.
+Aplikace je určena pro lidi, kteří chodí do posilovny.
+Slouží pro zápis tréninků v určité dny.
 
-## Getting Started
+## 🚀 Hlavní funkce
+* Zápis tréninků (např. Push, Pull, Legs) na konkrétní datum a čas.
+* Výběr z předdefinované databáze cviků (včetně sérií, opakování a délky pauzy).
+* Možnost vytvářet a ukládat vlastní cviky.
+* Cloudová synchronizace dat – historie tréninků se ukládá do online databáze.
+* Vlastní nastavení vzhledu (Tmavý/Světlý režim, změna hlavní barvy, velikost písma).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Použité technologie
+* **Flutter / Dart** - frontend aplikace
+* **Firebase Firestore** - NoSQL cloudová databáze
